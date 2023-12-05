@@ -2,16 +2,22 @@
 
 Welcome to the LASA repository, where we explore the innovative LASA approach for predicting student performance based on behavioral data and exam scores.
 
+Certainly! Here's how you can structure the "Repository Structure" section in your README.md using correct Markdown formatting:
+
+
 ## Repository Structure
+
+```
 LASA/
 │
-├── data/ - Contains behavioral data of students and their corresponding exam scores.
+├── data/                  # Contains behavioral data of students and their corresponding exam scores.
 │
-├── LASA.ipynb - Jupyter notebook detailing the LASA algorithm and its evaluation results.
+├── LASA.ipynb             # Jupyter notebook detailing the LASA algorithm and its evaluation results.
 │
-├── initial_params.pkl - Serialized file representing parameters initialized using agglomerative hierarchical clustering.
+├── initial_params.pkl     # Serialized file representing parameters initialized using agglomerative hierarchical clustering.
 │
-└── README.md - This file, describing the repository's contents and usage.
+└── README.md              # This file, describing the repository's contents and usage.
+```
 
 
 ## Data Folder
