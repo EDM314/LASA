@@ -2,9 +2,6 @@
 
 Welcome to the LASA repository, where we explore the innovative LASA approach for predicting student performance based on behavioral data and exam scores.
 
-Certainly! Here's how you can structure the "Repository Structure" section in your README.md using correct Markdown formatting:
-
-
 ## Repository Structure
 
 ```
